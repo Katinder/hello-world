@@ -1,2 +1,2 @@
-# hello-world
-getting to know how it works
+# Calorie-Alchemist
+CNN to recognise food images
